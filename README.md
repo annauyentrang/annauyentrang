@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GPA-3.97-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Graduation-Dec%202025-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-City%2C%20ST-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Houston%2C%20TX-orange?style=flat-square" />
 </p>
 
 ---
