@@ -10,7 +10,7 @@
 ## 💡 About Me
 
 🎓 **Bachelor of Science in Computer Science**, Minor in Mathematics  
-📍 University of City, City, ST  
+📍 University of Houston, Houston, TX 
 💼 Passionate about research, computer graphics, and creating immersive simulations.
 
 ---
@@ -62,7 +62,7 @@ Created a 3D simulation of the 5 Platonic solids with realistic dice physics and
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/annauyentrang)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([www.linkedin.com/in/annauyentrang](https://www.linkedin.com/in/anna-vu-07a92831a/))  
 📧 [annauyentrang@gmail.com](mailto:annauyentrang@gmail.com)
 
 ---
