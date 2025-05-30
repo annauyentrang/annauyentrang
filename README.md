@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm a Computer Science Student</h1>
+<h1 align="center">Hi there! 👋 I'm Anna Vu</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/GPA-3.97-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Graduation-Dec%202025-blue?style=flat-square" />
