@@ -44,9 +44,13 @@ Created a 3D simulation of the 5 Platonic solids with realistic dice physics and
 
 ## 🎓 Campus & Leadership
 
-- 🎯 **Event Coordinator @ Cougarettes** – Led workshops, coding events, and Coffee Chats
+- 🎯 **Led the student org dedicated to empowering women in computer science. Coordinated an officer team to host:
+DataJam (day-long coding and design events with real-world problem briefs)
+Technical Workshops (BioPython, Java, HTML/CSS, resume-building, etc.)
+
+Community Events (Coffee Chat & Chill, career panels, cross-org collabs)
 - 💬 **Mentor @ CS Girls** – Guided students in résumé building, interview prep, and internship search
-- 🌏 **VSA Member** – Supported community-building and cultural outreach events
+- 🌏 **VSA Family Leader** – Supported community-building and cultural outreach events
 
 ---
 
