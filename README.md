@@ -1,76 +1,106 @@
-<h1 align="center">Hi there! 👋 I'm Anna Vu</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/GPA-3.98-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Graduation-Dec%202025-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Houston%2C%20TX-orange?style=flat-square" />
-</p>
+# Anna Vu
+**Software Engineer | Machine Learning Researcher | Technical Leader**  
+Houston, TX  
+[LinkedIn](https://www.linkedin.com/in/anna-vu-07a92831a/) • [GitHub](https://github.com/annauyentrang) • annauyentrang@gmail.com  
 
 ---
 
-## 💡 About Me
+## About Me  
+Computer Science graduate from the University of Houston (Summa Cum Laude, GPA 3.984) with hands-on experience in backend development, machine learning research, and technical leadership. I have built production-style Django applications, developed computer vision pipelines in PyTorch, and led large student organizations delivering technical workshops and industry events.
 
-🎓 **Bachelor of Science in Computer Science**, Minor in Mathematics  
-📍 University of Houston, Houston, TX 
-💼 Passionate about research, computer graphics, and creating immersive simulations.
-
----
-
-## 🔬 Research
-
-**Person Re-Identification under Heat Haze**  
-**CAHSI Local Research Experience** – *Feb 2025 – May 2025*  
-Used `OSNet`, `TorchreID`, and `OpenCV` to simulate real-world heat distortion effects in surveillance.  
-Achieved **+22.6% mAP improvement** through distortion-aware training.
-
-> 📈 Before: 76.6% mAP → After: 99.2% mAP on distorted data
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Heat+Haze+Distortion+Demo" width="80%"/>
-</p>
+I’m interested in **Software Engineering, Backend Development, Machine Learning, and Technical Program Coordination** roles.
 
 ---
 
-## 🧪 Projects
+## Technical Skills  
 
-### 🧊 Interactive Platonic Solids Model  
-*Python, OpenGL – May–Aug 2024*  
-Created a 3D simulation of the 5 Platonic solids with realistic dice physics and texture-mapped rendering.
-
-<p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Platonic+Solids+Screenshot" width="60%"/>
-</p>
+**Languages:** Python, Java, C++, C#, JavaScript, SQL  
+**Web:** Django, REST APIs, HTML/CSS, Bootstrap  
+**ML / CV:** PyTorch, OpenCV, TorchReID  
+**Tools:** Git, GitHub, Unity, Jupyter, VS Code, Visual Studio  
+**OS:** Windows, Linux  
 
 ---
 
-## 🎓 Campus & Leadership
+## Featured Projects  
 
-- 🎯 **Led the student org dedicated to empowering women in computer science. Coordinated an officer team to host:
-DataJam (day-long coding and design events with real-world problem briefs)
-Technical Workshops (BioPython, Java, HTML/CSS, resume-building, etc.)
+### VolunteersRUs – Volunteer Matching Platform  
+**Tech:** Django, Python, REST APIs, HTML/Bootstrap  
+- Built RESTful backend services for volunteer–event matching  
+- Implemented ranking logic, input validation, and error handling  
+- Integrated frontend forms with API endpoints  
+- Wrote documentation and demo assets for reproducibility  
 
-Community Events (Coffee Chat & Chill, career panels, cross-org collabs)
-- 💬 **Mentor @ CS Girls** – Guided students in résumé building, interview prep, and internship search
-- 🌏 **VSA Family Leader** – Supported community-building and cultural outreach events
-
----
-
-## ⚙️ Tech Stack
-
-**Languages:**  
-`Python`, `C++`, `Java`, `C#`, `SQL`, `HTML/CSS`, `R`  
-
-**Frameworks & Tools:**  
-`PyTorch`, `OpenCV`, `OpenGL`, `Unity`, `Git`, `TorchreID`, `NumPy`, `Jupyter`, `VS Code`, `LaTeX`
+**Focus:** Backend development, API design, data validation  
 
 ---
 
-## 📫 Contact Me
+### Chemistry Laboratory VR Simulation  
+**Tech:** Unity, C#, Meta Quest 3  
+- Implemented interactive VR experiment logic and physics-based interactions  
+- Collaborated in a 7-person Agile team using Git  
+- Resolved merge conflicts and integrated features across sprints  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([www.linkedin.com/in/annauyentrang](https://www.linkedin.com/in/anna-vu-07a92831a/))  
-📧 [annauyentrang@gmail.com](mailto:annauyentrang@gmail.com)
+**Focus:** VR development, teamwork, simulation systems  
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/4658208/133929283-e286b3a7-f41a-4036-9320-fd7c7b5e8c9d.gif" width="100"/>
-</p>
+### ML Research: Person Re-Identification Under Visual Distortion  
+**Tech:** PyTorch, OpenCV, TorchReID  
+- Built a reproducible ML training pipeline  
+- Implemented custom data augmentation (Perlin noise, wave distortion)  
+- Improved robustness on distorted inputs (+22.6 mAP vs baseline)  
+- Automated evaluation across datasets and distortion levels  
+- Presented research at **GMiS Conference 2025 (San Diego)**  
+
+**Focus:** Computer vision, evaluation pipelines, research reproducibility  
+
+---
+
+## Professional Experience  
+
+### Computer Science Tutor – ConocoPhillips CS Learning Center  
+- Debugged and optimized Python/C++ data structures and algorithms  
+- Improved correctness and runtime performance of student code  
+
+### CAHSI Local Research Experience – University of Houston  
+- Conducted ML research on distortion-robust vision models  
+- Built training and evaluation pipelines in PyTorch  
+
+---
+
+## Leadership  
+
+### President – ACM-W Cougarettes  
+- Led an 11-member board  
+- Organized 30+ technical workshops and industry panels  
+- Coordinated logistics, communications, and partnerships  
+
+### CS Girls Mentor  
+- Mentored 3 CS students in academics and career preparation  
+
+### Vietnamese Student Association Family Leader  
+- Led a group of 30+ students through cultural and mentorship events  
+
+---
+
+## Education  
+
+**University of Houston**  
+B.S. in Computer Science, Minor in Mathematics  
+**Honors:** Summa Cum Laude (GPA 3.984)  
+
+---
+
+## Interests  
+- Backend systems & APIs  
+- Machine learning & computer vision  
+- VR/AR development  
+- Technical leadership & project coordination  
+
+---
+
+## Contact  
+📧 annauyentrang@gmail.com  
+🔗 https://linkedin.com/in/annauyentrang
+💻 https://github.com/annauyentrang 
