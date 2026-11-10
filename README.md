@@ -124,7 +124,9 @@ B.S. Computer Science · Minor in Mathematics
 
 ## Let's Connect
 
-I'm interested in software engineering opportunities where I can contribute to meaningful technical projects and continue developing as an engineer.
+I'm interested in contributing to software engineering teams building reliable, practical, and scalable applications.
+
+**Open to entry-level opportunities and relocation throughout the United States.**
 
 
 ## Contact  
